@@ -6,4 +6,4 @@ Update the maven dependicies once the project is cloned to your local machine
 LAST step do a build and run the tests 
 Please note the chrome driver on this project support only the latest version (Version 99.0.4844.84 (Official Build) (64-bit)) and 
 
-Also the URL for the API is throwing a 403 Forbidden Error - I was anot able to test but I believe the code I've written should ruturn the response.  
+Also the URL for the API is throwing a 403 Forbidden Error - I was anot able to test but I believe the code I've written should return the response.  
